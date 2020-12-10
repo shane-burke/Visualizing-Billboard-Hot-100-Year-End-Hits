@@ -19,5 +19,5 @@ Here are the steps I took to execute this project:
 * Exported my data as a GeoJSON and used <b>MapBoxGL</b> to map it.
 * Styled the webpage with HTML and CSS.
 
-Here is a screenshot of the interactive map, which I plan to post online momentarily:
+Here is a screenshot of the interactive map, which <a href="https://shane-burke.github.io/">can be found here.</a>
 <img src="https://i.imgur.com/uSCnSAB.png"/>
