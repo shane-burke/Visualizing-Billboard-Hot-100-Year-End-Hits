@@ -749,7 +749,7 @@
 747,2013,49,Girl On Fire,Alicia Keys,Nicki Minaj,United States,Country,Manhattan,District,US,neo-soul,contemporary r&b,r&b
 748,2013,50,Heart Attack,Demi Lovato,n/a,United States,Country,Albuquerque,City,US,pop,pop rock,dance-pop
 749,2013,51,Love Somebody,Maroon 5,n/a,United States,Country,Los Angeles,City,US,pop,rock,pop rock
-750,2013,52,I Will Wait,Mumford,Sons,n/a,n/a,n/a,n/a,n/a,iowa,,
+750,2013,52,I Will Wait,Mumford & Sons,n/a,United Kingdom,Country,London,City,UK,folk pop,alternative rock,americana
 751,2013,53,Try,P!nk,n/a,United States,Country,Doylestown,City,US,pop,pop rock,contemporary r&b
 752,2013,54,Wagon Wheel,Darius Rucker,n/a,United States,Country,Charleston,City,US,pop,contemporary country,country pop
 753,2013,55,Gangnam Style,PSY,n/a,South Korea,Country,Gangnam District,District,KR,hiphop,yg family,kr
@@ -938,7 +938,7 @@
 936,2015,38,Jealous,Nick Jonas,n/a,United States,Country,Dallas,City,US,n/a,n/a,n/a
 937,2015,39,Time Of Our Lives,Pitbull,Ne-Yo,United States,Country,Miami,City,US,dance-pop,electropop,southern hip hop
 938,2015,40,Locked Away,R. City,Adam Levine,Germany,Country,n/a,n/a,DE,deutschrock,progressive rock,rock
-939,2015,41,Somebody,Natalie La Rose,Jeremih,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+939,2015,41,Somebody,Natalie La Rose,Jeremih,Netherlands,Country,Amsterdam,City,NE,n/a,n/a,n/a
 940,2015,42,FourFiveSeconds,Rihanna & Kanye West,Paul McCartney,New York,City,Saint Michael,Subdivision,n/a,pop,r&b,contemporary r&b
 941,2015,43,Centuries,Fall Out Boy,n/a,United States,Country,Wilmette,City,US,pop punk,pop rock,emo-pop
 942,2015,44,My Way,Fetty Wap,Monty,United States,Country,Paterson,City,US,pop rap,trap rap,hip hop
@@ -958,7 +958,7 @@
 956,2015,58,Stay With Me,Sam Smith,n/a,United States,Country,Omaha,City,US,indie rock,indie folk,acoustic rock
 957,2015,59,You Know You Like It,DJ Snake,AlunaGeorge,France,Country,Paris,City,FR,electropop,contemporary r&b,dance
 958,2015,60,Uma Thurman,Fall Out Boy,n/a,United States,Country,Wilmette,City,US,pop punk,pop rock,emo-pop
-959,2015,61,7/11,Beyonce,n/a,United States,Country,Houston,City,US,pop,contemporary r&b,pop rap
+959,2015,61,11-Jul,Beyonce,n/a,United States,Country,Houston,City,US,pop,contemporary r&b,pop rap
 960,2015,62,The Heart Wants What It Wants,Selena Gomez,n/a,United States,Country,Grand Prairie,City,US,pop,contemporary r&b,electro house
 961,2015,63,Girl Crush,Little Big Town,n/a,United States,Country,Homewood,City,US,country,,
 962,2015,64,Slow Motion,Trey Songz,n/a,United States,Country,Petersburg,City,US,r&b,contemporary r&b,hip hop
@@ -1031,7 +1031,7 @@
 1029,2016,31,What Do You Mean?,Justin Bieber,n/a,Canada,Country,London,City,CA,pop,teen pop,tropical house
 1030,2016,32,The Hills,The Weeknd,n/a,Canada,Country,Scarborough,City,CA,r&b,pop,contemporary r&b
 1031,2016,33,Just Like Fire,P!nk,n/a,United States,Country,Doylestown,City,US,pop,pop rock,contemporary r&b
-1032,2016,34,Broccoli,D.R.A.M.,Lil Yachty,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+1032,2016,34,Broccoli,Shelley FKA DRAM,Lil Yachty,United States,Country,Hampton,City,US,hip hop,r&b,neo soul
 1033,2016,35,Don't,Bryson Tiller,n/a,United States,Country,Louisville,City,US,n/a,n/a,n/a
 1034,2016,36,Dangerous Woman,Ariana Grande,n/a,United States,Country,Boca Raton,City,US,pop,english,
 1035,2016,37,Jumpman,Drake,Future,Canada,Country,Toronto,City,CA,hip hop,pop rap,alternative r&b
@@ -1228,7 +1228,7 @@
 1226,2018,29,Let You Down,NF,n/a,United States,Country,Gladwin,City,US,rap,hip hop,rapper
 1227,2018,30,No Limit,G-Eazy,A$AP Rocky & Cardi B,United States,Country,Oakland,City,US,hip hop,,
 1228,2018,31,FEFE,6ix9ine,Nicki Minaj & Murda Beatz,United States,Country,Bushwick,City,US,hip hop,,
-1229,2018,32,Tequila,Dan + Shay,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+1229,2018,32,Tequila,Dan + Shay,n/a,United States,Country,Nashville,City,US,country pop,country,
 1230,2018,33,Feel It Still,Portugal. The Man,n/a,United States,Country,Wasilla,City,US,indie rock,math rock,neo-psychedelia
 1231,2018,34,MotorSport,Migos,Nicki Minaj & Cardi B,United States,Country,Lawrenceville,City,US,hip hop,,
 1232,2018,35,I Like Me Better,Lauv,n/a,United States,Country,San Francisco,City,US,n/a,n/a,n/a
@@ -1331,7 +1331,7 @@
 1329,2019,32,Better Now,Post Malone,n/a,United States,Country,Syracuse,City,US,hip hop,,
 1330,2019,33,Youngblood,5 Seconds Of Summer,n/a,Australia,Country,Sydney,City,AU,pop rock,pop punk,teen pop
 1331,2019,34,Money In The Grave,Drake,Rick Ross,Canada,Country,Toronto,City,CA,hip hop,pop rap,alternative r&b
-1332,2019,35,Speechless,Dan + Shay,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+1332,2019,35,Speechless,Dan + Shay,n/a,United States,Country,Nashville,City,US,country pop,country,n/a
 1333,2019,36,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,n/a,United States,Country,Boca Raton,City,US,pop,english,
 1334,2019,37,Please Me,Cardi B,Bruno Mars,United States,Country,The Bronx,District,US,hip hop,english,relic inn
 1335,2019,38,Money,Cardi B,n/a,United States,Country,The Bronx,District,US,hip hop,english,relic inn
@@ -1387,13 +1387,13 @@
 1385,2019,88,Love Lies,Khalid,Normani,United States,Country,Fort Stewart,n/a,US,hip hop,r&b,pop
 1386,2019,89,One Thing Right,Marshmello,Kane Brown,United States,Country,Philadelphia,City,US,independent artist,,
 1387,2019,90,Cash Shit,Megan Thee Stallion,DaBaby,United States,Country,Houston,City,US,n/a,n/a,n/a
-1388,2019,91,Tequila,Dan + Shay,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+1388,2019,91,Tequila,Dan + Shay,n/a,United States,Country,Nashville,City,US,country pop,country,n/a
 1389,2019,92,Shotta Flow,NLE Choppa,n/a,United States,Country,Memphis,City,US,n/a,n/a,n/a
 1390,2019,93,Hot Girl Summer,Megan Thee Stallion,Nicki Minaj & Ty Dolla $ign,United States,Country,Houston,City,US,n/a,n/a,n/a
 1391,2019,94,Talk You Out Of It,Florida Georgia Line,n/a,United States,Country,Nashville,City,US,country pop,bro-country,
 1392,2019,95,Beautiful,Bazzi,Camila Cabello,United States,Country,Dearborn,City,US,pop,,
 1393,2019,96,Eyes On You,Chase Rice,n/a,United States,Country,n/a,n/a,US,country,,
-1394,2019,97,All To Myself,Dan + Shay,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+1394,2019,97,All To Myself,Dan + Shay,n/a,United States,Country,Nashville,City,US,country pop,country,n/a
 1395,2019,98,Boyfriend,Ariana Grande,Social House,United States,Country,Boca Raton,City,US,pop,english,
 1396,2019,99,Walk Me Home,P!nk,n/a,United States,Country,Doylestown,City,US,pop,pop rock,contemporary r&b
 1397,2019,100,Robbery,Juice WRLD,n/a,United States,Country,Chicago,City,US,n/a,n/a,n/a
