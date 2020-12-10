@@ -1,4 +1,5 @@
 # Mapping Music: Visualizing Billboard's Year-End Top 100, 2004 to now
+## <a href="https://shane-burke.github.io/"><font color="purple">View map here! </font></a>
 
 Since August of 1958, Billboard has released a weekly chart ranking the top songs in America based on sales, radio play, and digital streams on platforms like Spotify, Apple Music, and YouTube (added to the count in 2018). At the end of the year, they release their top 100 songs of the year. Year-end charts since 2004 are available on their website. 
 
